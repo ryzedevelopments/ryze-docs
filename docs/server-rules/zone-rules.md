@@ -1,51 +1,39 @@
 ﻿---
-sidebar_position: 7
+sidebar_position: 8
 title: 🗺️ Zone Rules
 ---
 
-# 🗺️ Zone Rules
+# 🗺️ 1.7 Zone Rules
 
-## 1.7 — 🗺️ Zone Integrity & Safe Area Rules
+## Zone Integrity & Safe Area Rules
 
 Zones exist to protect RP flow and prevent exploitation. Violating zone rules will result in immediate action.
 
-## Red Zones
+---
 
-High-risk areas where hostile RP may occur, but RP standards still apply.
+## 1.7.1 Red Zones (Cayo)
 
-No fail-fearing.
+PVP Zone - No RP is needed. KOS
 
-No forcing or baiting hostile RP.
+- No interactions necessary
+- Anything that happens in a Red Zone must not be brought back to city
 
-No robbing legal items or cash.
+---
 
-Unlocked vehicles may be used/searched at your own risk.
-
-## Green Zones
+## 1.7.2 Green Zones
 
 Designated safe areas where hostile RP is strictly prohibited.
 
-No camping or tailing players from green zones.
+:::danger
 
-No hostile RP of any kind.
+- No camping or tailing players from green zones
+- No hostile RP of any kind
+- No picklocking
+- No robbing
+- No taking vehicles
+  :::
 
-Businesses may be entered but not used to start RP scenarios.
+- Businesses may be entered but not used to start RP scenarios
+- Clothing stores and businesses are always green zones
 
-No picklocking.
-
-No robbing.
-
-No taking vehicles.
-
-Clothing stores and businesses are always green zones.
-
-## Ryze RP Enforcement Standard
-
-Ryze RP enforces:
-
-- Realistic vehicle behavior
-- Respect for safe zones
-- Proper evidence handling
-- Professional communication with staff
-
-Players who cannot uphold these standards will be removed from the community.
+---

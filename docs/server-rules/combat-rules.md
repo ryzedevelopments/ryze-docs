@@ -1,34 +1,35 @@
 ﻿---
-sidebar_position: 11
+sidebar_position: 10
 title: ⚔️ Combat Rules
 ---
 
-# ⚔️ Combat Rules
+# ⚔️ 1.9 Combat Rules
 
-## 2.0 — 🔫 Combat Integrity & Exploit Prevention
+## Combat Integrity & Exploit Prevention
 
 Combat must remain fair, realistic, and free of mechanical abuse.
 
-## Combat Logging Protocol
+---
 
-If you crash, return to the scene as soon as possible or open a ticket.
+## 1.9.1 Combat Logging Protocol
 
-Repeated quitting, F8ing, or leaving to avoid RP will result in escalating punishments.
+- If you crash, return to the scene as soon as possible or open a ticket
+- Repeated quitting, F8ing, or leaving to avoid RP will result in escalating punishments
+- If you crash while dead, NLR still applies
 
-If you crash while dead, NLR still applies.
+---
 
-## Exploit & Animation Abuse
+## 1.9.2 Exploit & Animation Abuse
 
 The following are strictly prohibited:
 
-Q-Peeking to gain advantage
+:::danger
 
-Faking death using emotes
-
-Emote Abuse — using animations to gain unfair advantage
-
-Combat Emoting — laying down or similar animations during shootouts
-
-Instant Dismounting (“Instant Dissy”) — rapidly dismounting vehicles/bikes or using emotes to gain combat advantage
+- **Q-Peeking** — using cover peek to gain an unfair advantage
+- **Faking death** using emotes
+- **Emote Abuse** — using animations to gain unfair advantage
+- **Combat Emoting** — laying down or similar animations during shootouts
+- **Instant Dismounting ("Instant Dissy")** — rapidly dismounting vehicles/bikes or using emotes to gain combat advantage
+  :::
 
 Any attempt to manipulate animations or mechanics for advantage is considered exploiting.

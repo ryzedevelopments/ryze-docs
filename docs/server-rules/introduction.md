@@ -3,13 +3,17 @@ sidebar_position: 1
 title: 📜 Introduction
 ---
 
-# 📜 Introduction
+# 📜 1.0 Introduction
 
-Ryze RP — Core Community & Roleplay Standards
+## Ryze RP — Core Community & Roleplay Standards
 
+:::warning
 Failure to follow these standards may result in warnings, suspensions, or permanent removal depending on severity.
+:::
 
-Ryze RP Community Standard
+---
+
+## Ryze RP Community Standard
 
 Ryze RP is built on:
 

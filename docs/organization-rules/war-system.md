@@ -3,126 +3,114 @@ sidebar_position: 9
 title: 🔥 War System
 ---
 
-# 🔥 War System
+# 🔥 O.9 War System
 
-War & Conflict Protocols
+## War & Conflict Protocols
 
-## 🟥 STAGE 1 — "THE STORYLINE" (The Build-Up)
+---
+
+## O.9.1 STAGE 1 — "THE STORYLINE" (The Build-Up)
 
 Hostility between two organizations must be built through proper RP, not a single moment of frustration or an isolated incident.
 
 There must be a clear motive, a developing storyline, and multiple meaningful interactions before conflict can escalate.
 
-### ✔️ Required: 3 Meaningful Interactions
+### O.9.1.1 Required: 3 Meaningful Interactions
 
 To enter Stage 1, both orgs must complete three (3) separate scenes that contribute to the storyline.
 
 These can include:
 
-Meetings or negotiations
+- Meetings or negotiations
+- Discovering a rival's bench or lab
+- Capturing or interrogating a hostage
+- Business disputes or failed deals
+- Territory pressure or warnings
 
-Discovering a rival's bench or lab
+### O.9.1.2 Not Allowed
 
-Capturing or interrogating a hostage
+- Isolated incidents (e.g., a car bump, a random insult)
+- Scenes that resolve instantly with no lasting impact
+- "One-and-done" interactions with no story progression
 
-Business disputes or failed deals
+### O.9.1.3 Evidence Requirement
 
-Territory pressure or warnings
-
-### ❌ Not Allowed
-
-Isolated incidents (e.g., a car bump, a random insult)
-
-Scenes that resolve instantly with no lasting impact
-
-"One-and-done" interactions with no story progression
-
-### 📸 Evidence Requirement
-
+:::info
 All interactions must be supported with clips for them to count toward Stage 1.
+:::
 
 Once the storyline is properly built, the conflict may escalate to Stage 2.
 
-Storyline Rules — Conflict must be built through RP, not random incidents.
+---
 
-## 🟥 STAGE 2 — "ACTIVE KOS" (The Escalation)
+## O.9.2 STAGE 2 — "ACTIVE KOS" (The Escalation)
 
 After the storyline is established and three interactions are confirmed, both organizations must follow a structured escalation process before KOS becomes active.
 
-### 1️⃣ The Meeting
+### O.9.2.1 The Meeting
 
 Leadership from both sides must meet in person or via phone to discuss:
 
-KOS terms
+- KOS terms
+- Boundaries
+- Expectations
+- Any additional agreements
 
-Boundaries
+_(IC rules do not need to be added — Ryze RP rules apply to everyone.)_
 
-Expectations
-
-Any additional agreements
-
-(IC rules do not need to be added — Ryze RP rules apply to everyone.)
-
-### 2️⃣ The Terms
+### O.9.2.2 The Terms
 
 Both sides must agree on:
 
-KOS duration (default: until one side folds)
+- KOS duration _(default: until one side folds)_
+- NLR cooldown _(default: 30 minutes unless both sides agree otherwise)_
+- Allowed/forbidden locations
+- Robbing rules
+- Any additional tactical restrictions
 
-NLR cooldown (default: 30 minutes unless both sides agree otherwise)
+### O.9.2.3 The Declaration
 
-Allowed/forbidden locations
+:::warning
+KOS is **NOT LIVE** until:
 
-Robbing rules
+- One side officially declares it
+- The other side acknowledges and agrees
+  :::
 
-Any additional tactical restrictions
-
-### 3️⃣ The Declaration
-
-KOS is NOT LIVE until:
-
-One side officially declares it
-
-The other side acknowledges and agrees
-
-### ⚠️ Unjustified KOS
+### O.9.2.4 Unjustified KOS
 
 Any KOS outside the agreed terms is forbidden and may result in:
 
-Strikes
+- Strikes
+- Fines
+- Additional penalties
 
-Fines
+---
 
-Additional penalties
-
-KOS Rules — KOS must be agreed upon, declared, and acknowledged.
-
-## 🟥 STAGE 3 — "OFFICIAL WAR" (The Final Stage)
+## O.9.3 STAGE 3 — "OFFICIAL WAR" (The Final Stage)
 
 If KOS does not resolve the conflict, either side may escalate to a formal war.
 
-### 📅 24-Hour Notice
+### O.9.3.1 24-Hour Notice
 
 Wars cannot begin on the same night they are declared.
 
-A minimum 24-hour notice is required.
+A minimum **24-hour notice** is required.
 
-### 🛡 The Defender's Advantage
+### O.9.3.2 The Defender's Advantage
 
 The defending organization chooses:
 
-The time
+- The time
+- The location
+- Minor tactical rules (e.g., "no roofs")
 
-The location
+_(IC rules remain mandatory regardless.)_
 
-Minor tactical rules (e.g., "no roofs")
+### O.9.3.3 Motive Restriction
 
-(IC rules remain mandatory regardless.)
+:::info
+If an org loses the war, they cannot declare again for the same motive.
 
-### 🔁 Motive Restriction
-
-If an org loses the war, they cannot declare again for the same motive
-
-(e.g., losing a war over a bench means you cannot re-declare over that same bench).
-
-War Rules — Wars require notice, structure, and defender control.
+_(e.g., losing a war over a bench means you cannot re-declare over that same bench)_
+:::

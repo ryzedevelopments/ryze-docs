@@ -3,40 +3,33 @@ sidebar_position: 2
 title: ⚖️ Core Standards
 ---
 
-# ⚖️ Core Standards
+# ⚖️ 1.1 Core Standards
 
-## 1.1 — Foundational Roleplay Principles
+## Foundational Roleplay Principles
 
-### Stay In Character:
-
+**1.1.1 Stay In Character**
 You must remain fully in character during all interactions. Breaking character without Staff direction is not permitted.
 
-### Handling Rule Concerns:
-
-Do not confront rule issues in RP. Use /report or open a ticket.
-
+**1.1.2 Handling Rule Concerns**
+Do not confront rule issues in RP. Use `/report` or open a ticket.
 Confronting players IC or OOC may result in action against both parties.
 
-### Public OOC:
-
+**1.1.3 Public OOC**
 OOC comments, reactions, or arguments in public spaces are strictly prohibited.
 
-### No Street Vigilantism:
+**1.1.4 No Street Vigilantism**
+Players may not act as self-appointed enforcers or "off-duty police."
 
-Players may not act as self-appointed enforcers or “off-duty police.”
-
-### Harassment:
-
+**1.1.5 Harassment**
 Zero tolerance. Repeated or targeted harassment will result in removal.
 
-### Suicide RP:
-
+**1.1.6 Suicide RP**
 Not permitted under any circumstances.
 
-### No FRP / Trolling / Disruptive Behavior:
-
+**1.1.7 No FRP / Trolling / Disruptive Behavior**
 All actions must be grounded in realistic, immersive RP.
 
-### IRL Threats / Doxing / Harassment:
-
+**1.1.8 IRL Threats / Doxing / Harassment**
+:::danger
 Immediate permanent ban.
+:::

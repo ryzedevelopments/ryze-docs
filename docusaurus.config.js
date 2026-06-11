@@ -65,6 +65,11 @@ const config = {
             label: "Docs",
           },
           {
+            href: "https://ryze-rp.tebex.io/",
+            label: "Tebex",
+            position: "right",
+          },
+          {
             href: "https://discord.gg/YOURINVITE",
             label: "Discord",
             position: "right",
