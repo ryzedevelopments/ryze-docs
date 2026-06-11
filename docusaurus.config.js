@@ -12,13 +12,14 @@ const config = {
     v4: true,
   },
 
-  url: "https://ryze-docs.pages.dev",
-  baseUrl: "/",
+  url: "https://ryzedevelopments.github.io",
+  baseUrl: "/ryze-docs/",
 
   organizationName: "ryzedevelopments",
   projectName: "ryze-docs",
 
   onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
     defaultLocale: "en",
@@ -45,7 +46,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/ryze-social-card.png",
       colorMode: {
         defaultMode: "dark",
         disableSwitch: true,
@@ -64,6 +65,11 @@ const config = {
             position: "left",
             label: "Docs",
           },
+          {
+            href: "https://discord.gg/YOURINVITE",
+            label: "Discord",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -73,8 +79,16 @@ const config = {
             title: "Docs",
             items: [
               {
+                label: "Getting Started",
+                to: "/docs/getting-started/introduction",
+              },
+              {
                 label: "Server Rules",
-                to: "/docs/intro",
+                to: "/docs/server-rules/introduction",
+              },
+              {
+                label: "Organization Rules",
+                to: "/docs/organization-rules/introduction",
               },
             ],
           },

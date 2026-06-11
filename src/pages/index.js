@@ -2,18 +2,16 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import styles from "./index.module.css";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const logoFull = useBaseUrl("img/logo-full.svg");
 
   return (
     <header className={styles.heroBanner}>
       <div className='container'>
-        <img
-          src='/img/logo-full.svg'
-          alt='Ryze RP'
-          className={styles.heroLogo}
-        />
+        <img src={logoFull} alt='Ryze RP' className={styles.heroLogo} />
 
         <div className={styles.buttons}>
           <Link
