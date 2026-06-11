@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 7
-title: Zone Rules
+title: 🗺️ Zone Rules
 ---
 
-# Zone Rules
+# 🗺️ Zone Rules
 
 ## 1.7 — 🗺️ Zone Integrity & Safe Area Rules
 

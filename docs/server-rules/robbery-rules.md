@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 8
-title: Robbery Rules
+title: 💸 Robbery Rules
 ---
 
-# Robbery Rules
+# 💸 Robbery Rules
 
 Criminal Engagement & Theft Protocols
 

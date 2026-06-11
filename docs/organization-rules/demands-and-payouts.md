@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 11
-title: Demands & Payouts
+title: 💵 Demands & Payouts
 ---
 
-# Demands & Payouts
+# 💵 Demands & Payouts
 
 ## ⚠️ Fear RP Requirement
 

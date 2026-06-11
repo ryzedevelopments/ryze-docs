@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 3
-title: Organization Tiers
+title: 📈 Organization Tiers
 ---
 
-# Organization Tiers
+# 📈 Organization Tiers
 
 Ryze RP — ORG Structure & Clothing Progression
 

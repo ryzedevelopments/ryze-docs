@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
-title: Creating Your Character
+title: 👤 Creating Your Character
 ---

@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 12
-title: Prohibited Items & Trading
+title: 🚫 Prohibited Items & Trading
 ---
 
-# Prohibited Items & Trading
+# 🚫 Prohibited Items & Trading
 
 ## 2.1 — 🔒 Restricted Weapons & Premium Vehicles
 

@@ -33,7 +33,6 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          editUrl: "https://github.com/ryzedevelopments/ryze-docs/tree/main/",
         },
         blog: false,
         theme: {

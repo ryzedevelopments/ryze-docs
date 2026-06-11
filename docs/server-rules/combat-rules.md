@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 11
-title: Combat Rules
+title: ⚔️ Combat Rules
 ---
 
-# Combat Rules
+# ⚔️ Combat Rules
 
 ## 2.0 — 🔫 Combat Integrity & Exploit Prevention
 

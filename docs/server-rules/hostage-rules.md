@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 9
-title: Hostage Rules
+title: 🪢 Hostage Rules
 ---
 
-# Hostage Rules
+# 🪢 Hostage Rules
 
 ## 1.5 — Hostage Engagement Rules
 

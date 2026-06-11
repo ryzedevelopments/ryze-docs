@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 2
-title: Membership & Tagging
+title: 🏷️ Membership & Tagging
 ---
 
-# Membership & Tagging
+# 🏷️ Membership & Tagging
 
 Ryze RP — Untagged Members
 

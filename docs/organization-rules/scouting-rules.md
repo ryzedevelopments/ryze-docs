@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 6
-title: Scouting Rules
+title: 👀 Scouting Rules
 ---
 
-# Scouting Rules
+# 👀 Scouting Rules
 
 ## Scout Standards
 

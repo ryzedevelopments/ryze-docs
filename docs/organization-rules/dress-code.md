@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 4
-title: Dress Code
+title: 👕 Dress Code
 ---
 
-# Dress Code
+# 👕 Dress Code
 
 ## Organization Clothing Standards
 

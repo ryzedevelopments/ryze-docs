@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 10
-title: Heist Rules
+title: 🏦 Heist Rules
 ---
 
-# Heist Rules
+# 🏦 Heist Rules
 
 Coordinated Heist & Scenario Control Rules
 

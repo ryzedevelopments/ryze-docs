@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 7
-title: Compound Rules
+title: 🏠 Compound Rules
 ---
 
-# Compound Rules
+# 🏠 Compound Rules
 
 Ryze RP — Compound Breaching Rules
 

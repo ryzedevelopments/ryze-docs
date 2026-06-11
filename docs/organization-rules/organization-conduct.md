@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 14
-title: Organization Conduct
+title: 👑 Organization Conduct
 ---
 
-# Organization Conduct
+# 👑 Organization Conduct
 
 Organizations are expected to maintain the highest standards of roleplay and leadership.
 

@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 8
-title: Conflict Rules
+title: ⚡ Conflict Rules
 ---
 
-# Conflict Rules
+# ⚡ Conflict Rules
 
 Ryze RP — Hostility & Conflict Rules
 

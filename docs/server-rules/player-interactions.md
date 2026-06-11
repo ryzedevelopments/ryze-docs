@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 5
-title: Player Interactions
+title: 🤝 Player Interactions
 ---
 
-# Player Interactions
+# 🤝 Player Interactions
 
 ## 1.4 — Player Interaction Guidelines
 

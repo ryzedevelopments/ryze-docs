@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 4
-title: New Life Rule
+title: 🧠 New Life Rule
 ---
 
-# New Life Rule
+# 🧠 New Life Rule
 
 ## 1.2 — New Life Protocol
 

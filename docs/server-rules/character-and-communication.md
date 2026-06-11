@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 3
-title: Character & Communication
+title: 💬 Character & Communication
 ---
 
-# Character & Communication
+# 💬 Character & Communication
 
 ## 1.3 — Communication & Conduct Standards
 

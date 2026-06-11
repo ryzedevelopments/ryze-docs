@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 9
-title: War System
+title: 🔥 War System
 ---
 
-# War System
+# 🔥 War System
 
 War & Conflict Protocols
 

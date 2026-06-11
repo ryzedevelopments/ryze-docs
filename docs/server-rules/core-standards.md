@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 2
-title: Core Standards
+title: ⚖️ Core Standards
 ---
 
-# Core Standards
+# ⚖️ Core Standards
 
 ## 1.1 — Foundational Roleplay Principles
 

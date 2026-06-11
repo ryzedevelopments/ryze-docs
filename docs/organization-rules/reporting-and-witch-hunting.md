@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 13
-title: Reporting & Witch Hunting
+title: 📢 Reporting & Witch Hunting
 ---
 
-# Reporting & Witch Hunting
+# 📢 Reporting & Witch Hunting
 
 ## Reporting Expectations
 

@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 14
-title: Final Conduct
+title: 🛡️ Final Conduct
 ---
 
-# Final Conduct
+# 🛡️ Final Conduct
 
 Ryze RP — Final Conduct Rules
 

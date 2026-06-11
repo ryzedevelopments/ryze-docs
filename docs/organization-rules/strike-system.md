@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 12
-title: Strike System
+title: 🚨 Strike System
 ---
 
-# Strike System
+# 🚨 Strike System
 
 Ryze RP — Strike System
 

@@ -1,9 +1,9 @@
----
+﻿---
 sidebar_position: 10
-title: Organization NLR
+title: ☠️ Organization NLR
 ---
 
-# Organization NLR
+# ☠️ Organization NLR
 
 NLR / KIA Protocols
 
