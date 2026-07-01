@@ -37,7 +37,7 @@ Using a vehicle as a weapon — intentionally running someone over or ramming th
 
 A clear, in-character action or statement that establishes hostile intent and gives the other player a chance to react before force is used — for example, a verbal demand. Warning shots do not count as a valid initiation.
 
-A valid initiation must be preceded by at least 5 minutes of genuine player interaction — you cannot initiate on someone out of nowhere for no reason. Combat, robbery, or hostage-taking without a valid initiation is treated as RDM.
+A valid initiation must be preceded by at least 2 minutes of genuine player interaction — you cannot initiate on someone out of nowhere for no reason. Combat, robbery, or hostage-taking without a valid initiation is treated as RDM.
 
 ## Combat Logging
 
