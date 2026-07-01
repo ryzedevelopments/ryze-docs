@@ -7,7 +7,7 @@ title: 🚙 Vehicle Identity
 
 ## O.5.1 Organization Vehicle Standards
 
-Organization vehicles are an extension of the crew's identity and should remain consistent with their image.
+Organization vehicles are an extension of the org's identity and should remain consistent with their image.
 
 - Organizations should maintain a recognizable style throughout their fleet
 - Vehicle choices should be realistic and appropriate for the organization
@@ -19,6 +19,6 @@ Organization vehicles are an extension of the crew's identity and should remain 
 - Government agencies
 - Other organizations
 
-Organizations are responsible for ensuring members use vehicles that reflect the standards and identity of the crew.
+Organizations are responsible for ensuring members use vehicles that reflect the standards and identity of the org.
 
 Vehicle identity should strengthen immersion, not create confusion.

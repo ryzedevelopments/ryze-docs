@@ -21,7 +21,7 @@ The following actions are strictly prohibited during any active heist:
 - Killing participants, civilians, or hostages involved in a heist your group is not part of
 - Robbing or stripping hostages who are already part of a heist scenario
 - Using friends, gang members, or associates as pre-planned or staged hostages
-- Kidnapping or taking hostages from Green Zones
+- Kidnapping or taking hostages from [Green Zones](./zone-rules.md#172-green-zones)
 - Disrupting, griefing, or derailing another group's heist RP
   :::
 
@@ -34,11 +34,19 @@ Heists must remain clean, contained, and respectful of other players' storylines
 The following actions are allowed and encouraged to support immersive heist RP:
 
 - Asking a hostage if they want to store valuables before being taken
-- Taking a random civilian/player hostage outside of Green Zones
+- Taking a random civilian/player hostage outside of [Green Zones](./zone-rules.md#172-green-zones)
 - Inviting other players or groups who were already planning to participate in the heist
 - Negotiating realistically with police, hostages, and all involved parties
 
 Heists should feel like dynamic, story-driven events, not chaotic free-for-alls.
+
+---
+
+## 2.0.3 Crew Size Limits
+
+Heists require a minimum of **2** and a maximum of **4** active participants.
+
+Up to **2** additional members may act as scouts/spotters over the radio, but they must not participate in the heist or come near the scene.
 
 ---
 

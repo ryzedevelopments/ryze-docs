@@ -8,7 +8,7 @@ title: 🤝 Player Interactions
 ## Player Interaction Guidelines
 
 **1.4.1 Carrying Players**
-Drivers may not carry players. Passengers may.
+See [Vehicle Standards, 1.6.2](./vehicle-standards.md).
 
 **1.4.2 Downed Communication**
 Only allowed for RP enhancement (pain RP, groaning) or interacting with EMS/Admins/Events.

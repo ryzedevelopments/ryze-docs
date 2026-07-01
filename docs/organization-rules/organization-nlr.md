@@ -47,14 +47,14 @@ The default 30 minutes may change if both sides agree to different terms during 
 
 ---
 
-## O.10.3 Removing Gang Identity (Mandatory)
+## O.10.3 Removing Org Identity (Mandatory)
 
-The moment you respawn, you must strip all gang identifiers:
+The moment you respawn, you must strip all org identifiers:
 
 - No vests
 - No colours
 - No patches
-- No gang-specific clothing
+- No org-specific clothing
 
 :::warning
 You cannot represent your org while under NLR.

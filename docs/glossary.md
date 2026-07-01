@@ -61,4 +61,4 @@ Repeated, targeted harassment of a specific player or organization through OOC c
 
 ## Green Zone / Red Zone
 
-Defined safe and PVP areas that govern where combat, robbery, and hostage RP are allowed. See [Zone Rules, 1.7](./server-rules/zone-rules.md) for the full list and rules.
+Defined safe and PVP areas that govern where combat, robbery, and hostage RP are allowed. Legal crafting areas are **not** Green Zones — robberies there follow the normal interaction rule instead. Nothing that happens in a Red Zone carries back to the city IC (memory/grudges only — loot and items can still be brought back). See [Zone Rules, 1.7](./server-rules/zone-rules.md) for the full list and rules.

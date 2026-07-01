@@ -7,8 +7,8 @@ title: 🛡️ Introduction
 
 ## Ryze RP ORG Code
 
-Being a org leader in Ryze RP ain't just about being the top dog, you're the one your whole crew mirrors. The way you move, talk, and handle business sets the tone for everybody under your flag.
+Organization leadership carries direct responsibility for how the org is perceived and how its members conduct themselves. Leadership's conduct sets the standard for everyone operating under the org's name.
 
-Your org must follow server rules and your own code, no excuses. It's on you to make sure your members know what's cool, what ain't, and what happens when someone steps out of line.
+Every org must follow both server rules and its own internal code, without exception. Leadership is responsible for ensuring members understand expectations and the consequences of stepping out of line.
 
-Real leadership isn't about yelling orders or trying to look tough. It's about keeping your name clean, pushing solid RP, and making sure your group carries itself like a real organization, not some messy street clique with no structure. The way you guide your crew builds your rep, your storyline, and how deep you solidify your name in city.
+Effective leadership is not about issuing orders or projecting dominance — it is about maintaining a clean reputation, promoting quality roleplay, and ensuring the org operates as a structured organization rather than an undisciplined group. How leadership guides the org shapes its reputation, storyline, and standing within the city.

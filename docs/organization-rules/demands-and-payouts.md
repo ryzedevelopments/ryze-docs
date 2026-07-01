@@ -10,7 +10,7 @@ title: 💵 Demands & Payouts
 ## O.11.1 Fear RP Requirement
 
 :::danger
-If the hostage's crew refuses to meet reasonable demands and shows no [Fear RP](../glossary.md#fear-rp--value-of-life) for their member's life, that member may be [Hard-PK'd](../glossary.md#hard-pk-hard-permanent-kill) from the org.
+If the hostage's org refuses to meet reasonable demands and shows no [Fear RP](../glossary.md#fear-rp--value-of-life) for their member's life, that member may be [Hard-PK'd](../glossary.md#hard-pk-hard-permanent-kill) from the org.
 
 This is considered RP blocking and will be treated seriously.
 :::

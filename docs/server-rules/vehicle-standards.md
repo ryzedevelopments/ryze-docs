@@ -38,7 +38,7 @@ Vehicle usage must remain realistic, grounded, and consistent with GTA V physics
 ## 1.6.4 Boot & Vehicle Searches
 
 - A vehicle must be out for **10+ minutes** before a boot search is valid
-- Boot checks are not allowed in green zones or garages
+- Boot checks are not allowed in [Green Zones](./zone-rules.md#172-green-zones) or garages
 
 ---
 

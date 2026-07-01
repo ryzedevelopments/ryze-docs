@@ -13,6 +13,10 @@ Every tier unlocks more numbers, more customization, and more responsibility.
 
 Gang Staff judge progression on long-term performance, not short bursts of activity.
 
+:::info
+**Roster Cap** is the maximum total members your org may have. **Hostile Cap** is the maximum number of members who may participate in any hostile RP (KOS, wars, conflicts) at the same time. Each org is limited to its own tier's Hostile Cap — if orgs of different tiers clash, each side stays capped at their own number unless both sides agree to match caps (see [War System, O.9.2.2](./war-system.md)).
+:::
+
 ---
 
 ## O.3.1 Tier 1 — Ghost Tier
@@ -54,7 +58,7 @@ You're gaining traction — now you must prove you can operate with consistency.
 | Custom Clothing | 8 pieces    |
 | Unlocks         | Gun Vendors |
 
-This tier tests your structure — only disciplined crews make it past here.
+This tier tests your structure — only disciplined orgs make it past here.
 
 ---
 
@@ -69,4 +73,4 @@ This tier tests your structure — only disciplined crews make it past here.
 | Custom Clothing | 10 pieces                                         |
 | Unlocks         | Custom MLO (must be provided), Drug & Gun Vendors |
 
-You're now an established power — a crew with influence, identity, and proven dominance.
+You're now an established power — an org with influence, identity, and proven dominance.

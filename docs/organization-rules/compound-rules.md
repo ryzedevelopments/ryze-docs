@@ -29,7 +29,7 @@ This includes warning shots, potshots, or any intentional discharge toward anoth
 
 ### O.7.1.2 Active Baiting Behind Gates
 
-If a crew uses their compound as a shield while taunting, provoking, recording rivals, or baiting conflict, they create a Fair Shooting Zone.
+If an org uses their compound as a shield while taunting, provoking, recording rivals, or baiting conflict, they create a Fair Shooting Zone.
 
 - Baiting removes compound immunity
 - Staff will treat this as intentional escalation
@@ -66,14 +66,14 @@ This includes constant gate-peeking, baiting, or hiding behind doors to force en
 
 ### O.7.2.3 Record the Trigger
 
-Clipping the initial provocation is strongly recommended.
+Clipping the initial provocation is required.
 
 - Shots fired
 - Baiting
 - Retreating mid-fight
 
-:::tip
-This protects your organization in case of a report.
+:::danger
+No clip of the trigger means no valid claim to breach — this protects your org in case of a report.
 :::
 
 ---

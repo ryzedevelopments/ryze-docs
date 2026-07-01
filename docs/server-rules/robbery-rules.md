@@ -26,7 +26,7 @@ Victims must value their life — no radio use, weapon pulling, or escalation (s
 Repeatedly robbing the same players is prohibited.
 
 **2.2.5 Safe Zone Protection**
-No robberies in green zones or legal crafting areas.
+No robberies in [Green Zones](./zone-rules.md#172-green-zones). Legal crafting areas are not Green Zones — robberies there are allowed under the normal interaction rule (2.2.9), unless the crafting table is inside a designated Red Zone.
 
 **2.2.6 RP Justification**
 Robberies must have a valid RP reason — not random or senseless.

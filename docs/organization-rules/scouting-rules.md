@@ -13,9 +13,8 @@ Scouts exist to gather information and support roleplay progression, not to arti
 
 ## O.6.1 Untagged Scouts
 
-Untagged associates may act as Scouts during hostility.
+Untagged associates may act as Scouts during hostility, subject to the eligibility rules in [Membership & Tagging, O.2.1](./membership-and-tagging.md) (maximum of 1 Scout; violating this results in a 2-week cooldown for the untagged member).
 
-- Maximum of **1 Scout** allowed
 - Scouts may observe and relay information
 
 ### Scouts may NOT:

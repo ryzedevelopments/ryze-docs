@@ -11,12 +11,12 @@ To keep the ORG ecosystem fair, balanced, and immersive within Ryze RP, every gr
 
 ## O.2.1 Untagged Members
 
-Untagged members are individuals who associate with a crew but are not officially registered on the roster.
+Untagged members are individuals who associate with an org but are not officially registered on the roster.
 
 ### They may:
 
 - Take part in non-hostile RP with the org
-- Act as Scouts during hostility (maximum of 1 allowed)
+- Act as Scouts during hostility (maximum of 1 allowed) — see [Scouting Rules, O.6](./scouting-rules.md) for what Scouts may and may not do
 
 ### They may NOT:
 
@@ -32,11 +32,11 @@ Untagged members **will** be placed on a 2 week cooldown if caught breaking this
 
 Tagged members are official, fully recognized members who carry the responsibilities and privileges of representing their org in all situations. Once tagged, a person is considered an active part of the org's identity, reputation, and actions.
 
-Tagged members have full access to crew operations and may:
+Tagged members have full access to org operations and may:
 
-- Represent the crew in hostile, defensive, or high-stakes RP
-- Use crew resources, including stash items, turf systems, and spray mechanics
-- Participate in wars, raids, territory conflicts, and official crew events
+- Represent the org in hostile, defensive, or high-stakes RP
+- Use org resources, including stash items, turf systems, and spray mechanics
+- Participate in wars, raids, territory conflicts, and official org events
 
 ---
 
@@ -52,8 +52,8 @@ To ensure fairness and prevent abuse, the following rules apply:
 
 ## O.2.4 Leadership Responsibilities
 
-Crew leaders are responsible for:
+Org leaders are responsible for:
 
-- Ensuring every tagged member understands the rules, expectations, and consequences of representing the crew
+- Ensuring every tagged member understands the rules, expectations, and consequences of representing the org
 - Maintaining roster integrity and preventing misuse of tagging for combat stacking
 - Upholding Ryze RP's standards for quality, story-driven roleplay

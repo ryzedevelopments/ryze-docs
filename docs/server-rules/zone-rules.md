@@ -16,17 +16,17 @@ Zones exist to protect RP flow and prevent exploitation. Violating zone rules wi
 PVP Zone - No RP is needed. KOS
 
 - No interactions necessary
-- Anything that happens in a Red Zone must not be brought back to city
+- Nothing that happens in a Red Zone carries back to the city — no IC memory, grudges, or revenge for incidents that occurred there. Items and loot obtained there may still be brought back normally.
 
 ---
 
 ## 1.7.2 Green Zones
 
-Designated safe areas where hostile RP is strictly prohibited.
+Designated safe areas where hostile RP is strictly prohibited. This is the canonical list — other rules (robberies, boot searches, heists, etc.) reference this section rather than redefining it.
 
 :::danger
 
-- No camping or tailing players from green zones
+- No camping or tailing players from Green Zones
 - No hostile RP of any kind
 - No picklocking
 - No robbing
@@ -34,6 +34,10 @@ Designated safe areas where hostile RP is strictly prohibited.
   :::
 
 - Businesses may be entered but not used to start RP scenarios
-- Clothing stores and businesses are always green zones
+- Green Zones are: clothing stores, businesses, and hospitals/PD interiors
+
+:::info
+Legal crafting areas are **not** Green Zones. Robberies at crafting tables are allowed as long as the standard interaction rule applies (see [Robbery Rules, 2.2.9](./robbery-rules.md)) — unless the crafting table itself is inside a designated Red Zone, in which case Red Zone rules apply instead.
+:::
 
 ---

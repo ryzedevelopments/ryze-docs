@@ -3,7 +3,7 @@ sidebar_position: 8
 title: ⚡ Conflict Rules
 ---
 
-# ⚡O.8 Conflict Rules
+# ⚡ O.8 Conflict Rules
 
 ## Ryze RP — Hostility & Conflict Rules
 
@@ -17,7 +17,7 @@ All organizations are expected to follow these rules to prevent chaos, third-par
 
 Hostile engagements are strictly one organization versus one organization.
 
-If Org A is in an active conflict with Org B, no other crew may:
+If Org A is in an active conflict with Org B, no other org may:
 
 - Initiate new beef
 - Interfere in ongoing fights
@@ -44,7 +44,7 @@ You may not attack the same organization for 48 hours.
 You may not start a new conflict with any other organization until the cooldown expires.
 
 **O.8.2.3 Passive RP Only**
-Crews should focus on:
+Orgs should focus on:
 
 - Restocking
 - Healing and aftermath RP
@@ -70,4 +70,4 @@ All organizations must approach conflict with:
 - Respect for server balance
 - Zero exploitation of loopholes
 
-Ryze RP prioritizes quality over chaos. Crews that cannot maintain discipline will face penalties.
+Ryze RP prioritizes quality over chaos. Orgs that cannot maintain discipline will face penalties.

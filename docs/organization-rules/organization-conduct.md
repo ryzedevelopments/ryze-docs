@@ -18,7 +18,7 @@ Leadership should set the example for their members.
 - Encourage positive interactions with the wider community
 - Foster immersive and realistic storytelling
 
-A crew's reputation is built by the actions of its members.
+An org's reputation is built by the actions of its members.
 
 :::warning
 Organizations that consistently fail to uphold Ryze RP standards may face penalties ranging from fines and strikes through to removal of organization status.
