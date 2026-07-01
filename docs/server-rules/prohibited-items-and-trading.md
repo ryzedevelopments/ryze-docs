@@ -32,14 +32,14 @@ These items are protected to maintain server balance and fairness.
 
 ---
 
-## 2.2 — IRL Trading & Out-of-City Transactions
+## 2.1.3 — IRL Trading & Out-of-City Transactions
 
 Ryze RP enforces a **zero-tolerance policy** on real-world trading.
 
-**2.2.1 Attempted IRL Trading**
+**2.1.3.1 Attempted IRL Trading**
 Attempting to negotiate, advertise, or arrange IRL trades — even if the trade never occurs — is a rule breach.
 
-**2.2.2 IRL Trading**
+**2.1.3.2 IRL Trading**
 Buying, selling, or trading any in-game items, vehicles, money, or services for real-world currency (PayPal, bank transfer, PayID, crypto, gift cards, etc.) is strictly prohibited.
 
 **Punishment**

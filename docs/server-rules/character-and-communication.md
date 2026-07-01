@@ -17,7 +17,7 @@ title: 💬 Character & Communication
 ---
 
 **1.3.7 No Metagaming**
-OOC information may not be used for IC advantage.
+OOC information may not be used for IC advantage. See [Metagaming](../glossary.md#metagaming) in the Glossary.
 
 **1.3.8 No Multi-Character Cross-Benefit**
 Alternate characters may not assist or benefit your main character.

@@ -47,6 +47,8 @@ If a gunfight begins outside and one side retreats into their compound to avoid 
 
 ### O.7.2.1 Value Your Life
 
+See [Fear RP / Value of Life](../glossary.md#fear-rp--value-of-life) in the Glossary.
+
 Just because breaching becomes allowed does not mean it becomes smart.
 
 Organizations must still consider:
@@ -58,7 +60,7 @@ Organizations must still consider:
 
 ### O.7.2.2 No Compound Camping
 
-Sitting inside your compound all day waiting for someone to breach is considered Fail RP.
+Sitting inside your compound all day waiting for someone to breach is considered [Fail RP](../glossary.md#fail-rp-frp).
 
 This includes constant gate-peeking, baiting, or hiding behind doors to force engagements.
 

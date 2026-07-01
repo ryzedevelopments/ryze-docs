@@ -20,7 +20,7 @@ Medical personnel may never be robbed.
 Police may only be robbed during a valid RP scenario with sufficient police presence. Government-issued items may not be taken.
 
 **2.2.3 Life Preservation**
-Victims must value their life — no radio use, weapon pulling, or escalation.
+Victims must value their life — no radio use, weapon pulling, or escalation (see [Fear RP / Value of Life](../glossary.md#fear-rp--value-of-life)).
 
 **2.2.4 Targeting Rules**
 Repeatedly robbing the same players is prohibited.
@@ -41,7 +41,7 @@ Clean money, phones, bandages, and other legal items may not be stolen.
 
 ## 2.2.9 Two-Minute Interaction Standard
 
-Before initiating a robbery:
+Before [initiating](../glossary.md#initiation) a robbery:
 
 - Minimum **2 minutes** of meaningful RP
 - Must include legitimate build-up to hostility

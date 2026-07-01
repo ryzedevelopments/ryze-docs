@@ -30,7 +30,7 @@ Vehicle usage must remain realistic, grounded, and consistent with GTA V physics
 
 ## 1.6.3 Life Preservation in Vehicles
 
-- If a firearm is aimed at you while seated in a vehicle, you must fear for your life
+- If a firearm is aimed at you while seated in a vehicle, you must fear for your life (see [Fear RP / Value of Life](../glossary.md#fear-rp--value-of-life))
 - Melee weapons do not trigger forced fear compliance
 
 ---

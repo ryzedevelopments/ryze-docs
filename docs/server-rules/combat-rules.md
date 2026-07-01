@@ -13,6 +13,8 @@ Combat must remain fair, realistic, and free of mechanical abuse.
 
 ## 1.9.1 Combat Logging Protocol
 
+See [Combat Logging](../glossary.md#combat-logging) in the Glossary.
+
 - If you crash, return to the scene as soon as possible or open a ticket
 - Repeated quitting, F8ing, or leaving to avoid RP will result in escalating punishments
 - If you crash while dead, NLR still applies

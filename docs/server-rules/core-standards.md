@@ -27,7 +27,7 @@ Zero tolerance. Repeated or targeted harassment will result in removal.
 Not permitted under any circumstances.
 
 **1.1.7 No FRP / Trolling / Disruptive Behavior**
-All actions must be grounded in realistic, immersive RP.
+All actions must be grounded in realistic, immersive RP. See [Fail RP](../glossary.md#fail-rp-frp) in the Glossary.
 
 **1.1.8 IRL Threats / Doxing / Harassment**
 :::danger

@@ -63,7 +63,7 @@ _(IC rules do not need to be added — Ryze RP rules apply to everyone.)_
 Both sides must agree on:
 
 - KOS duration _(default: until one side folds)_
-- NLR cooldown _(default: 30 minutes unless both sides agree otherwise)_
+- NLR cooldown _(default: 30 minutes unless both sides agree otherwise — see Organization NLR, O.10.2)_
 - Allowed/forbidden locations
 - Robbing rules
 - Any additional tactical restrictions

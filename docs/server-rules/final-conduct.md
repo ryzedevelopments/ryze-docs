@@ -42,7 +42,7 @@ The following actions are never allowed, under any circumstances:
 - Spitting, `/me` trolling, or humiliation RP without consent
 - Racist, homophobic, or discriminatory language — even "in-character"
 - Targeted harassment through text, voice, or emotes
-- **VDM** — intentionally running someone over is always prohibited
+- **VDM** — intentionally running someone over is always prohibited (see [Glossary](../glossary.md#vdm-vehicle-deathmatch))
   :::
 
 These behaviors break immersion, violate community standards, and will be met with immediate punishment.
