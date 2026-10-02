@@ -25,8 +25,8 @@ Gang Staff judge progression on long-term performance, not short bursts of activ
 
 | Property        | Value      |
 | --------------- | ---------- |
-| Roster Cap      | 20 members |
-| Hostile Cap     | 15 members |
+| Roster Cap      | 10 members |
+| Hostile Cap     | 8 members |
 | Custom Clothing | None       |
 
 You're unproven — this tier is about showing you even belong in the conversation.
@@ -39,8 +39,8 @@ You're unproven — this tier is about showing you even belong in the conversati
 
 | Property        | Value      |
 | --------------- | ---------- |
-| Roster Cap      | 25 members |
-| Hostile Cap     | 20 members |
+| Roster Cap      | 12 members |
+| Hostile Cap     | 10 members |
 | Custom Clothing | 5 pieces   |
 
 You're gaining traction — now you must prove you can operate with consistency.
@@ -53,8 +53,8 @@ You're gaining traction — now you must prove you can operate with consistency.
 
 | Property        | Value       |
 | --------------- | ----------- |
-| Roster Cap      | 30 members  |
-| Hostile Cap     | 25 members  |
+| Roster Cap      | 15 members  |
+| Hostile Cap     | 12 members  |
 | Custom Clothing | 8 pieces    |
 | Unlocks         | Gun Vendors |
 
@@ -68,8 +68,8 @@ This tier tests your structure — only disciplined orgs make it past here.
 
 | Property        | Value                                             |
 | --------------- | ------------------------------------------------- |
-| Roster Cap      | 35 members                                        |
-| Hostile Cap     | 30 members                                        |
+| Roster Cap      | 20 members                                        |
+| Hostile Cap     | 15 members                                        |
 | Custom Clothing | 10 pieces                                         |
 | Unlocks         | Custom MLO (must be provided), Drug & Gun Vendors |
 
